@@ -1,4 +1,4 @@
-# Iosevka Spin
+# Iosevka Atium
 
 Custom Iosevka build.
 
@@ -13,5 +13,5 @@ docker build -t=fontcc .
 
 Back in this repo, this will use private-build-plans.toml to build the ttf variants:
 ```
-docker run -it --rm -v $PWD:/work fontcc ttf::IosevkaSpin
+docker run -it --rm -v $PWD:/work fontcc ttf::IosevkaAtium
 ```

@@ -16,10 +16,10 @@ exportGlyphNames = false
     d = "toothless-corner-serifless"
     g = "single-storey-flat-hook-earless-corner"
     h = "straight-serifless"
-    i = "serifless"
+    i = "flat-tailed"
     j = "serifless"
     l = "flat-tailed"
-    m = "tailed-serifless"
+    m = "earless-corner-double-arch-short-leg-serifless"
     n = "tailed-serifless"
     p = "earless-corner-serifless"
     q = "earless-corner-tailed-serifless"
@@ -59,7 +59,7 @@ exportGlyphNames = false
     j = "diagonal-tailed-serifed"
     k = "diagonal-tailed-cursive-serifless"
     l = "serifed-diagonal-tailed"
-    m = "short-leg-tailed-serifless"
+    m = "short-leg-serifless"
     p = "earless-rounded-serifless"
     q = "earless-rounded-diagonal-tailed-serifless"
     t = "diagonal-tailed-short-neck2"
@@ -79,10 +79,15 @@ shape = 400
 menu = 400
 css = 400
 
-[buildPlans.IosevkaAtium.weights.ExtraBold]
-shape = 800
-menu = 800
-css = 800
+[buildPlans.IosevkaAtium.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.IosevkaAtium.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
 
 [buildPlans.IosevkaAtium.slopes.Upright]
 angle = 0

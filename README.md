@@ -15,3 +15,7 @@ Back in this repo, this will use private-build-plans.toml to build the ttf varia
 ```
 docker run -it --rm -v $PWD:/work fontcc ttf::IosevkaAtium
 ```
+
+## Screenshot
+
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/89cc01e0-c66d-475f-b3ce-5fcf35fb808b" />
